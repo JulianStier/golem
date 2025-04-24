@@ -19,6 +19,7 @@
 /******************************************************************************/
 
 #include "GolemTimeControl.h"
+#include <FEProblemBase.h>
 
 registerMooseObject("GolemApp", GolemTimeControl);
 

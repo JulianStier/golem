@@ -19,6 +19,7 @@
 /******************************************************************************/
 
 #include "GMSEnergyResidual.h"
+#include <FEProblemBase.h>
 
 registerMooseObject("GolemApp", GMSEnergyResidual);
 
